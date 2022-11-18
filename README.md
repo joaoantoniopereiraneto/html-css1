@@ -1,6 +1,6 @@
 <!DOCTYEP html>
 <html>
-
+ 
 
  <h1>barbearia alura </h1>
 
