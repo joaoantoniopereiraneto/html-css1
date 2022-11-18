@@ -1,6 +1,6 @@
 <!DOCTYEP html>
 <html>
-
+<title>Barbearia Alura</title>
 
  <h1>barbearia alura </h1>
 
