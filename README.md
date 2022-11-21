@@ -11,4 +11,3 @@
 
  <p>Oferecemos profissionais experientes e antenados nas mudanças no mundo da moda.O atendimento possui padrão de        excelência e agilidade, garantir a qualidade e satisfação dos nossos clientes.</p>
   </html>
-
