@@ -1,5 +1,5 @@
 <!DOCTYEP html>
-<html>
+<html lang="pt-br" >
  <meta charset="utf-8">
  <h1>barbearia alura </h1>
 
