@@ -1,7 +1,7 @@
 <!DOCTYEP html>
 <html lang="pt-br" >
  <meta charset="utf-8">
- <h1.style="text-align:center">barbearia alura</h1>
+ <h1 style="text-align:center">barbearia alura</h1>
 
  <p>Localizada no coração da cidade a barbearia Alura traz no mercado o que há de melhor para o seu cabelo e barba.
 
